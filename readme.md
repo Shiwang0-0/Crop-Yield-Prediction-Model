@@ -57,13 +57,13 @@ The notebook (`model.ipynb`) builds a regression model based on Categorical Boos
 ## Plots
 
 ### Prediction Error Vs True Yield
-[error-yield](./images/error-yield.png)
+![error-yield](./images/error-yield.png)
 
 ### Shap Plot  
-[shap](./images/shapplot.png)
+![shap](./images/shapplot.png)
 
 ### Optuna Hyperparameter Tuning  
-[optuna](./images/optunaplot.png)  
+![optuna](./images/optunaplot.png)  
 
 ----
 Dataset: https://www.kaggle.com/datasets/akshatgupta7/crop-yield-in-indian-states-dataset
